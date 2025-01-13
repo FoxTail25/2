@@ -1,0 +1,27 @@
+
+@import url("/css/variable.css");
+@import url("/css/header.css");
+@import url("/css/banner1.css");
+@import url("/css/section_the_problem.css");
+@import url("/css/banner2.css");
+@import url("/css/section_intruducing.css");
+@import url("/css/team.css");
+@import url("/css/footer.css");
+
+
+body {
+	background-color: var(--main-bg-color);
+	font-family: Roboto;
+}
+
+.content-width {
+max-width: 1219px;
+margin: 0 auto;
+padding-left: 55px;
+padding-right: 54px;
+}
+
+#clearfix {
+	clear: both;
+	height: 0;
+}

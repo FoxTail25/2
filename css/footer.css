@@ -1,0 +1,13 @@
+
+footer {
+	padding-top: 48px;
+	padding-bottom: 64px;
+	background:var(--footer-bg-color);
+	p {
+		font-size: 18px;
+		color:var(--main-font-color2);
+		width:540px;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
