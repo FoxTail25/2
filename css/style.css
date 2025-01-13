@@ -1,12 +1,12 @@
 
-@import url("./css/variable.css");
-@import url("./css/header.css");
-@import url("./css/banner1.css");
-@import url("./css/section_the_problem.css");
-@import url("./css/banner2.css");
-@import url("./css/section_intruducing.css");
-@import url("./css/team.css");
-@import url("./css/footer.css");
+@import url("./variable.css");
+@import url("./header.css");
+@import url("./banner1.css");
+@import url("./section_the_problem.css");
+@import url("./banner2.css");
+@import url("./section_intruducing.css");
+@import url("./team.css");
+@import url("./footer.css");
 
 
 body {
